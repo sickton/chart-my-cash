@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/chart-my-cash.iml" filepath="$PROJECT_DIR$/.idea/chart-my-cash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chartMyCash/chartMyCash.iml" filepath="$PROJECT_DIR$/chartMyCash/chartMyCash.iml" />
+    </modules>
+  </component>
+</project>
