@@ -1,4 +1,4 @@
-package com.expense_tracker.chartmycash;
+package com.expense_tracker.chartmycash.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
